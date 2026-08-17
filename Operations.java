@@ -1,7 +1,7 @@
 public class Operations {
     public static void main(String[] args) {
-        int num1 = 20;
-        int num2 = 10;
+        int num1 = 70;
+        int num2 = 35;
         
         System.out.println("The sum of num1 and num2 is: " + (num1 + num2));
         System.out.println("The subtraction of num1 and num2 is: " + (num1 - num2));
